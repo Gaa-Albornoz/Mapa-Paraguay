@@ -1,0 +1,1 @@
+var json_CapitalNacional_4 = {"type":"FeatureCollection","name":"CapitalNacional_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ogc_fid":18.0,"dpto":"00","dpto_desc":"ASUNCIÓN","id":"5"},"geometry":{"type":"Point","coordinates":[-57.604854522006313,-25.291195933613373]}}]}
